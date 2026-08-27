@@ -1,4 +1,5 @@
 <h2 data-importer="text" align="left">HELLO WORLD :)</h2>
+<p>Check my projects here: [my portfolio is still under construction]</p>
 
 ###
 
