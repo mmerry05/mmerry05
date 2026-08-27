@@ -12,7 +12,7 @@
   </a>
   
 
-  <a href="discord://-/users/1522158588598948025" target="_blank">
+  <a href="https://discord.com/users/1522158588598948025" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="70" alt="discord logo"  />
   </a>
 </div>
