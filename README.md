@@ -7,7 +7,7 @@
 ###
 
 
-<div data-importer="socials" align="right">
+<div data-importer="socials" align="left">
   <a href="www.linkedin.com/in/marilyn-rodoussakis-32b4b6389" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -36,11 +36,11 @@
 
 ###
 
-<p data-importer="text" align="left">in progress</p>
+<p data-importer="text" align="right">in progress</p>
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
