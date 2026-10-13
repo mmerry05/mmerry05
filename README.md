@@ -5,9 +5,7 @@
 <p data-importer="text" align="left">Check my projects here: [my portfolio is still under construction]</p>
 
 ###
-<h2 data-importer="text" align="left">HELLO WORLD :)</h2>
 
-###
 
 <div data-importer="socials" align="left">
   <a href="www.linkedin.com/in/marilyn-rodoussakis-32b4b6389" target="_blank">
